@@ -1,0 +1,6 @@
+Option 4 - NTP Time Server - 196.10.55.57, 41.223.244.123
+Option 12 - Hostname - example.org
+Option 15 - Domain Name - example.org
+Option 43 - UniFi Controller Address - 10.10.1.xx
+Option 44 - NETBIOS WINS Servers - 10.10.1.xx, 10.10.2.xx 
+Option 119 - Domain search list - example.co.za, example.org, contoso.com
